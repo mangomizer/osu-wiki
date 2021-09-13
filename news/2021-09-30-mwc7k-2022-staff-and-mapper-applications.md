@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "osu!mania 7K World Cup 2022: Staff and Mapper Applications"
-date: 2021-09-14 12:00:00 +0000
+title: "osu!mania 7K World Cup 2022: Referee and Commentator Applications"
+date: 2021-09-30 12:00:00 +0000
 ---
 
-Happy new year from the osu! World Cup team! Applications for staffing positions in the osu!taiko World Cup 2021 have opened up, along with a few general announcements regarding the other gamemodes - read on to find out more!
+That's right everyone, the osu!mania 7K World Cup is back! pplications for staffing positions in the osu!taiko World Cup 2021 have opened up, along with a few general announcements regarding the other gamemodes - read on to find out more!
 
 ![](/wiki/shared/news/banners/XX_2022.jpg)
 
@@ -34,8 +34,17 @@ We are currently looking for experienced commentators for the osu!taiko gamemode
 
 Please find below the provisional schedule for the osu! World Cups next year. 
 
-| Event | Timestamp |
-| --: | :-- |
+### MWC 7K
+
+| TWC Registration Phase | Feb 4th – Feb 18th |
+| :-- | :-- |
+| Drawings | Feb 27th |
+| Tournament Stages | Mar 6th - Apr 11th |
+
+
+### TWC
+| Event | Stage | Timestamp |
+| :-- | :-- | :-- |
 | TWC Registration Phase | Feb 4th – Feb 18th |
 | Drawings | Feb 27th |
 | Tournament Stages | Mar 6th - Apr 11th |
